@@ -9,3 +9,11 @@ A. LINUX ARCHITECTURE
 
 
   This Linux architecture works on CLI (command line interface).
+
+
+B. Linux commands use very freequently.
+   1. ls - command to list files in a directory.
+   2. pwd - to print the present working directory.
+   3. cd - to change working directory.
+   4. ping - to check connectivity of an ip address or a website.
+   5. ls -l - to list files (with details).
