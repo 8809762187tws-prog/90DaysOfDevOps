@@ -1,0 +1,22 @@
+LINUX COMMANDS
+
+  1. cd - to change directory.
+  2. cd / - to goto the root folder
+  3. pwd - to print the current working directory.
+  4. ls -l - to list files in a directory with their details.
+  5. ls - to list files in a directory.
+  6. man - to know details about any linux command.
+  7. mkdir - to create a directory.
+  8. touch - to create a .txt file.
+  9. cp - to copy a file.
+  10. cp -r - to copy a directory.
+  11. mv - to move or rename a file.
+  12. rm - to remove a file.
+  13. Top - to print all processes details.
+  14. ps - process status.
+  15. ps -a - tell about active processes.
+  16. grep - it searches the given input.
+  17. ping - to know connectivity of an ip address or a website.
+  18. ip addr - to find the ip address
+  19. wget - to download from the provided link.
+  20. sudo - run a command as a superuser.
