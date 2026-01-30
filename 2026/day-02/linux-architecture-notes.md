@@ -17,3 +17,10 @@ B. Linux commands use very freequently.
    3. cd - to change working directory.
    4. ping - to check connectivity of an ip address or a website.
    5. ls -l - to list files (with details).
+
+C. Linux processes state.
+   1. running - The process is currently executing on CPU.
+   2. stopped - Process is paused.
+   3. Uninterruptible sleep (I/O) - 
+   4. sleeping - Process is waiting for something, can be woken up by signals.
+   5. Zombie - Finished execution.
