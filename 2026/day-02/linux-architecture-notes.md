@@ -19,8 +19,8 @@ B. Linux commands use very freequently.
    5. ls -l - to list files (with details).
 
 C. Linux processes state.
-   1. running - The process is currently executing on CPU.
-   2. stopped - Process is paused.
+   1. running - The process is currently running on CPU.
+   2. stopped - Process which is paused.
    3. Uninterruptible sleep (I/O) - 
    4. sleeping - Process is waiting for something, can be woken up by signals.
    5. Zombie - Finished execution.
